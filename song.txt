@@ -10,4 +10,4 @@
 Глазик выколю, другой останется,
 Чтоб видал гавно, кому кланяться! 
 
-branch 'fature'
+branch 'fature'second commit feature
